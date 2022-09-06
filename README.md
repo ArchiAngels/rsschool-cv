@@ -1,1 +1,1 @@
-# rsschool-cv
+https://archiangels.github.io/rsschool-cv/cv
