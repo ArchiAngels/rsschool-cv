@@ -1,17 +1,14 @@
 ## *Mikita Valynchyts*
 
-====
 
 * ### Contacts
     + email: *mikita.valynchyts@gmail.com*
-    + github: [@ArchiAngels](https://github.com/ArchiAngels])
+    + github: [@ArchiAngels](https://github.com/ArchiAngels)
 
-===
 
 * ### Goals
     + in near future want to be a `software engineer`
 
-===
 
 * ### Abilities
     + programming:
@@ -21,9 +18,8 @@
 
         + MongoDB,
 
-    + soft: *none*
+    + hard: `problem solving`
 
-===
 
 * ### Favorite programm
     ```
@@ -34,15 +30,12 @@
     sayHello();
     ```
 
-===
 
 * private project expirience more that *2 yrs*.
 
-===
 
 * education: *Bachelor* computer Science at WSH in Wroclaw
 
-===
 
 * english level: `begginer` like A2
 
