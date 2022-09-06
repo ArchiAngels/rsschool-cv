@@ -20,7 +20,7 @@
 
         + MongoDB,
 
-    + hard: `problem solving`
+    + hard: `problem solving` and `mathematical`
 
     * soft: ` listening` and `empathy`
 
