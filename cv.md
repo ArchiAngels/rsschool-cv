@@ -1,15 +1,16 @@
-### hello there!
-1. name :#### *Mikita Valynchyts*
+## *Mikita Valynchyts*
+====
 
-
-2. contacts :
+* ### Contacts
     + email: *mikita.valynchyts@gmail.com*
+    + github: [https://github.com/ArchiAngels](@ArchiAngels)
+====
 
-
-3. goals:
+* ### Goals
     + in near future want to be a `software engineer`
+====
 
-4. abilities:
+* ### Abilities
     + programming:
         + JS,React (>=v17),Node.js,epxress,redux,sass
 
@@ -18,14 +19,23 @@
         + MongoDB,
 
     + soft:
+====
 
+* ### Favorite programm
+    ```
+    function sayHello() {
+        return "Hello world!"
+    }
 
-5. favorite programm:
-    `Hello world!`
+    sayHello();
+    ```
+====
 
-6. private project expirience more that *2 yrs*.
+* private project expirience more that *2 yrs*.
+====
 
-7. education: *Bachelor* computer Science at WSH in Wroclaw
+* education: *Bachelor* computer Science at WSH in Wroclaw
+====
 
-8. english level: `begginer` like A2
+* english level: `begginer` like A2
 
